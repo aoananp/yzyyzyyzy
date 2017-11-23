@@ -1,0 +1,10 @@
+{
+  "splashUrl": "http://www.adidas.com/yeezy",
+  "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+  "partySize": 10,
+  "waitTime": 3000,
+  "splashUniqueIdentifier": "[data-sitekey]",
+  "enableSourceUpload": true,
+  "hmacOnly": false,
+  "gmailCookies": []
+}
